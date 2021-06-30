@@ -21,7 +21,7 @@ div.ct-wrapper{
 	max-width: 940px;
 	margin: 0px auto;
 	margin-top: 3%;
-	background: url('../img/night-scene.png');
+	background: url('night-scene.png');
 	
 	background-repeat: no-repeat;
 	background-size: cover;
