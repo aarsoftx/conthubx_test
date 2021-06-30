@@ -97,7 +97,7 @@ div.container form input{
 	width: 98%;
 	margin: 17px auto;
 	padding: 6px;
-	font-size: 20px;
+	font-size: 15px;
 	border: none;
 	outline: none;
 	border-radius: 5px;
@@ -108,7 +108,7 @@ div.container form textarea{
 	width: 98%;
 	margin: 17px auto;
 	padding: 6px;
-	font-size: 20px;
+	font-size: 15px;
 	border: none;
 	outline: none;
 	border-radius: 5px;
